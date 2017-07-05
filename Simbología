@@ -1,0 +1,6 @@
+# Simbología
+# promedios: El ciclo consiste en la toma de (promedios) muestras que luego son promediadas en cada punto.
+# width: Luego la señal resultante se convoluciona con una ventana de ancho (width) y altura (1/width).
+# x: Valores de longitud de onda (wavelengths) del aparato.
+
+
