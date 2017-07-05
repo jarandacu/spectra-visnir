@@ -1,6 +1,9 @@
 # Simbología
-# promedios: El ciclo consiste en la toma de (promedios) muestras que luego son promediadas en cada punto.
-# width: Luego la señal resultante se convoluciona con una ventana de ancho (width) y altura (1/width).
+# 1) promedios: El ciclo consiste en la toma de (promedios) muestras que luego son promediadas en cada punto.
+# 2) width: Luego la señal resultante se convoluciona con una ventana de ancho (width) y altura (1/width).
 # x: Valores de longitud de onda (wavelengths) del aparato.
-
+# funcin getwhite & getblack: obtiene la referencia para aplicar una transformación a los datos adquiridos.
+# función medir: aplica 1 y 2.
+# TODO: Implementar en la linea 241 la Transmitancia en vez de la Absorvancia, ¿ Se plotea la Transmitancia ?
+# Implementar python y R: 
 
